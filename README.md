@@ -1,1 +1,6 @@
 # Traffic-Volume-Forecasting-and-Adversarial-Generation
+
+This repository contains information and material for the Traffic Volume Forecasting and Adversarial Learning, a personal project. The purpose of the project is first to make traffic volume forecasts and second according to some data to be able to generate data, which are identical to the original ones. The project was written in Python. Main tasks where duplicate values detection and removal, missing values detection and removal, statistical analysis (including Density-Histogram-Scatter Plots, Independence Tests, QQ-Plots, Distribution Fitting Tests with Kolmogorov-Smirnov, Shapiro-Wilks, Anderson Darling, Correlation Analysis with Pearson Spearman, Kendall), outlier detection (with Box-Plots, IQR-Score), feature engineering, data splitting, data scaling, feature selection and forecasting (with OLS, Ridge, Lasso, Elastic-Net, Random Forest, Histogram-Based Gradient Boosting, Vanilla-RNN, LSTM, GRU, Bidirectional Vanilla-RNN/LSTM/GRU, with Roll Forward Cross Validation and evaluation metrics like MSE, MAE, RMSE, MAPE, R2, OOS-R2, SSR, SSE, MSR).
+
+
+# For material dm on LinkedIn: www.linkedin.com/in/iakovoschristoszarkadis
